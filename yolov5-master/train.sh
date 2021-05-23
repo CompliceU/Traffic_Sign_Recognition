@@ -1,0 +1,1 @@
+python train.py  --batch-size 32 --data data/CCTSDB.yaml --weights weights/yolov5s.pt --device 6,7

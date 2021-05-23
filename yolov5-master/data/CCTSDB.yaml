@@ -1,0 +1,9 @@
+train: ../data/CCTSDB_VOC2007/train.txt
+val: ../data/CCTSDB_VOC2007/val.txt
+test: ../data/CCTSDB_VOC2007/test.txt
+
+# number of classes
+nc: 3
+
+# class names
+names: ['warning', 'prohibitory','mandatory']
